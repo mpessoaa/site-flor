@@ -25,7 +25,7 @@ export default function AboutSection() {
           {/* Imagem */}
           <div className="relative aspect-square max-w-md mx-auto md:mx-0 rounded-lg overflow-hidden bg-muted/30">
             <img
-              src="/images/flor.jpeg"
+              src="/images/fotoflor.jpeg"
               alt="Flor de Lís - Psicóloga"
               className="w-full h-full object-cover"
             />
